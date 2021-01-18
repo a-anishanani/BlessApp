@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260234508280",
+    "project_id": "blessapp-a754f",
+    "storage_bucket": "blessapp-a754f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260234508280:android:8eb50523959739cc07c80d",
+        "android_client_info": {
+          "package_name": "com.example.blessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260234508280-jp9l9rg97omb8bcp9ngv4d7gumcskuk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANzgTUYUyh2AFcTSQeoyOI3V3TWcVU0wM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260234508280-jp9l9rg97omb8bcp9ngv4d7gumcskuk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
